@@ -1,0 +1,22 @@
+# Grid settings
+ROWS = 30
+COLS = 40
+NODE_SIZE = 20
+GRID_WIDTH = COLS * NODE_SIZE
+GRID_HEIGHT = ROWS * NODE_SIZE
+
+# Colors
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+GREEN = (0, 255, 0)
+RED = (255, 0, 0)
+BLUE = (0, 0, 255)
+YELLOW = (255, 255, 0)
+PURPLE = (128, 0, 128)
+ORANGE = (255, 165, 0)
+GREY = (128, 128, 128)
+
+# Window settings
+WIDTH = GRID_WIDTH
+HEIGHT = GRID_HEIGHT + 40
+FPS = 60
