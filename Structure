@@ -1,0 +1,8 @@
+pathfinding-visualizer/
+│
+├── algorithms/
+│   ├── astar.py
+│   ├── bfs.py
+│
+├── main.py
+└── settings.py
